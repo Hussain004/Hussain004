@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hussain004
 - 👀 I’m interested in control systems, image processing and app development 
-- 🌱 I’m currently learning ROS1, OpenCV and Linux
+- 🌱 I’m currently learning OpenCV, Kotlin and Linux
 - 📫 Contact me via email - hussain04habib@gmail.com
 
 <!---
