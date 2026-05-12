@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @Hussain004<br>- 👀 I’m interested in computer vision, control systems and app development <br>- 🌱 I’m currently learning OpenCV, ROS2, Kotlin and Linux<br>- 📫 Contact me via email - hussain04habib@gmail.com
+- 👋 Hi, I’m @Hussain004<br>- 👀 I’m interested in computer vision, control systems and applied ML <br>- 🌱 I’m currently learning more about VLMs and Diffusion<br>- 📫 Contact me via email - hussain04habib@gmail.com
 
 
 <!-- ## 🌐 Socials:
