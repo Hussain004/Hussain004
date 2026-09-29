@@ -21,7 +21,7 @@
 <a href="https://twitter.com/Hussain2004004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Hussain2004004" height="30" width="40" /></a>
 <a href="https://youtube.com/hussainhabib4154" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hussainhabib4154" height="30" width="40" /></a>
 <a href="https://leetcode.com/Hussain_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Hussain_04" height="30" width="40" /></a>
-<a href="[https://discord.gg/Visible04#1654](https://discord.com/users/695512722263244830)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Visible04#1654" height="30" width="40" /></a>
+<a href="https://discord.gg/Visible04#1654" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Visible04#1654" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
