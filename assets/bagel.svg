@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 430 150" width="430" height="150">
+<defs>
+<linearGradient id="e" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#5eead4" stop-opacity=".6"/><stop offset=".5" stop-color="#fff" stop-opacity=".05"/><stop offset="1" stop-color="#5eead4" stop-opacity=".25"/></linearGradient>
+<radialGradient id="g"><stop offset="0" stop-color="#5eead4" stop-opacity=".28"/><stop offset="1" stop-color="#5eead4" stop-opacity="0"/></radialGradient>
+<linearGradient id="s" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#5eead4" stop-opacity="0"/><stop offset=".5" stop-color="#5eead4"/><stop offset="1" stop-color="#5eead4" stop-opacity="0"/></linearGradient>
+<clipPath id="c"><rect width="430" height="150" rx="16"/></clipPath>
+</defs>
+<g clip-path="url(#c)">
+<rect width="430" height="150" fill="#0d1017"/>
+<circle cx="400" cy="10" r="120" fill="url(#g)"><animate attributeName="opacity" values=".5;1;.5" dur="6s" begin="0s" repeatCount="indefinite"/></circle>
+<rect x="0" y="0" width="150" height="2" fill="url(#s)"><animateTransform attributeName="transform" type="translate" values="-150 0;430 0" dur="4.5s" begin="0s" repeatCount="indefinite"/></rect>
+</g>
+<rect x=".5" y=".5" width="429" height="149" rx="16" fill="none" stroke="url(#e)"/>
+<text x="28" y="50" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#f1f5f9">BAGEL</text>
+<text x="28" y="86" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#9aa4b2">Open ROS 1/2 bags, PX4 logs, point clouds and</text><text x="28" y="106" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#9aa4b2">Gaussian splats in the browser. No install, no</text><text x="28" y="126" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#9aa4b2">upload. An open source Foxglove alternative.</text>
+<circle cx="33" cy="128" r="4" fill="#60a5fa"/>
+<text x="45" y="132" font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#8b95a5">TypeScript</text>
+<text x="402" y="50" text-anchor="end" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" fill="#5eead4">&#8599;</text>
+</svg>
