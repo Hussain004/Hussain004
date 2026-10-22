@@ -4,12 +4,12 @@
 
 <br/>
 
-<a href="mailto:hussain04habib@gmail.com"><img src="assets/pill-email.svg" alt="Email" height="40"/></a>
-<a href="https://linkedin.com/in/hussain-habib"><img src="assets/pill-linkedin.svg" alt="LinkedIn" height="40"/></a>
-<a href="https://twitter.com/Hussain2004004"><img src="assets/pill-x.svg" alt="X" height="40"/></a>
-<a href="https://leetcode.com/Hussain_04"><img src="assets/pill-leetcode.svg" alt="LeetCode" height="40"/></a>
-<a href="https://hussain04.vercel.app/"><img src="assets/pill-site.svg" alt="Portfolio" height="40"/></a>
-<a href="https://hussain04.vercel.app/hussain-habib-cv.pdf"><img src="assets/pill-cv.svg" alt="CV" height="40"/></a>
+<a href="mailto:hussain04habib@gmail.com">Email</a> &nbsp;/&nbsp;
+<a href="https://linkedin.com/in/hussain-habib">LinkedIn</a> &nbsp;/&nbsp;
+<a href="https://twitter.com/Hussain2004004">X</a> &nbsp;/&nbsp;
+<a href="https://leetcode.com/Hussain_04">LeetCode</a> &nbsp;/&nbsp;
+<a href="https://hussain04.vercel.app/">Portfolio</a> &nbsp;/&nbsp;
+<a href="https://hussain04.vercel.app/hussain-habib-cv.pdf">CV</a>
 
 <br/><br/>
 
@@ -28,7 +28,7 @@
 </tr>
 <tr>
 <td><a href="https://github.com/Hussain004/SAMOSA"><img src="assets/samosa.svg" alt="SAMOSA" width="430"/></a></td>
-<td><a href="https://github.com/Hussain004/Open-Vocabulary-Semantic-Room-Navigation"><img src="assets/nav.svg" alt="Open-Vocabulary Semantic Room Navigation" width="430"/></a></td>
+<td><a href="https://github.com/Hussain004/lift-and-coast"><img src="assets/lift.svg" alt="Lift and Coast" width="430"/></a></td>
 </tr>
 </table>
 
